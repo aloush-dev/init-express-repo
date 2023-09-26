@@ -16,7 +16,7 @@ To use this package, make sure you have [Node.js](https://nodejs.org/) and [npm]
 - Run the following command to generate the Express.js app using this package:
 
   ```bash
-   npx create-express-app your-project-name
+   npx init-express-repo
   ```
 
 > This will create a new Express.js project with the required directory structure, sample controller, model, test files, and database setup.
